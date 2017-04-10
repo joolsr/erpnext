@@ -11,4 +11,5 @@ You can choose to send message to all the users, or to specific user.
 
 <img class="screenshot" alt="Assign" src="{{docs_base_url}}/assets/img/collaboration-tools/chat-2.png">
 
+If the email checkbox is ticked then the message is additionally sent by email as well as a chat message to the user.
 {next}
